@@ -8,7 +8,7 @@ Im a Analytics professional with experience working in the data science sector i
 - 📫 You can find me on: https://www.linkedin.com/in/sanakarowadia/
 
 
-Languages and tools im familar wih so far (but am always keen to learn more!):
+Languages and tools im familar wih so far (but am always keen to learn more!) :
 
 
 
