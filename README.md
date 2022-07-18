@@ -1,6 +1,6 @@
 Hi There! Im Sana 👋
 
-Im a Analytics professional with experience working in the data science sector in the financial/banking industry. I enjoy all things data and machiene learning related, i also like other non coding aspects of analytics such as data visualisation and governance :) 
+Im a analytics professional with experience working in the data science sector in the financial/banking industry. I enjoy all things data and machiene learning related, i also like other non coding aspects of analytics such as data visualisation and governance :) 
 
 
 - 👀 I’m interested in any opportunities where i can learn new skills and techniques and collaborate on interesting projects.
